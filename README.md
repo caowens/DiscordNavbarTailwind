@@ -1,8 +1,3 @@
-# React + Vite
+# DiscordNavbarTailwind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a clone of the discord navbar using [Tailwind CSS](https://tailwindcss.com/). This was done by following the [Ultimate Tailwind CSS Tutorial // Build a Discord-inspired Animated Navbar](https://youtu.be/pfaSUYaSgRo?si=egWyrLn1k0uCc7za) by Fireship on Youtube. This was an attempt to learn Tailwind CSS by use of a project that uses many of it's capabilities.
